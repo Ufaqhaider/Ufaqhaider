@@ -5,11 +5,11 @@
 
 - 🌱 I’m currently learning **React Native**
 
-- 💬 Ask me about **Python, Django, Machine Learning, OpenCV**
+- 💬 Ask me about **React JS, Node JS, Python, Django, Machine Learning, OpenCV**
 
 - 📫 How to reach me **ufaqhaider674@gmail.com**
 
-- ⚡ Fun fact **I Make relatable content as well as I do coding as a psycho**
+- ⚡ Fun fact **I Make relatable content as well as I do coding as a night owl**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
